@@ -1,7 +1,6 @@
 # CiviCRM Training Guide
 
-## Scope of this guide
-
+## Scope of this guide.
 This guide is aimed at CiviCRM trainers who train users, system administrators and developers who would like to learn more about configuring and using CiviCRM.
 
 The courses can be run with groups of learners and the trainer will need access to a CiviCRM installation which is loaded with the standard sample data, a projector and a suitable venue. If you would like the learners to complete the supplied exercises the trainer will also have to ensure that each learner can access their own CiviCRM installation loaded with sample data.
